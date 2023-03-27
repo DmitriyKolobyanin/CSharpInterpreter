@@ -8,7 +8,7 @@
 
 var y = 2
 
-var b = "asdsa"
+var b = 5
 
 Console.WriteLine(y) Выводит переменную y
 
